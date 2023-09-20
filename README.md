@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moekaoui
-- 👀 I’m interested in creating and video games
+- 👋 Hi, I’m @moekaoui but you can call me moe
+- 👀 I’m interested in creating things people love to use and video games
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on fun and fufilling projects
 - 📫 mcherk24@gmail.com
